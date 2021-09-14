@@ -4,13 +4,18 @@
 ### UK biobank genetic data
 [Genetic profiles](https://biobank.ndph.ox.ac.uk/ukb/ukb/docs/ukbgene_instruct.html#dag)
 ### Genome-wide association studies (GWAS) summary statistics
++ Coronary artery disease: [Nikpay, Majid, et al.](https://www.ebi.ac.uk/gwas/studies/GCST003116)
++ Type 2 diabetes: [Scott, Robert A., et al.](http://diagram-consortium.org/downloads.html)
++ Inflammatory bowel disease: [Liu, Jimmy Z., et al.](https://www.ebi.ac.uk/gwas/studies/GCST003043)
++ Breast cancer: [Michailidou, Kyriaki, et al.](https://www.ebi.ac.uk/gwas/studies/GCST004988)
 
 ### LDpred2
 Refer to [privefl's work](https://github.com/privefl/paper-ldpred2/tree/master/code)
 
 ## Multi-type data matrix
-#### Columns description
-
+### Columns description
+Example: [matrix_CAD.info](https://github.com/yuxu-1/PRSIMD/blob/master/dataset/matrix_CAD.info)  
+Corresponding data: [dataset](https://github.com/yuxu-1/PRSIMD/tree/master/dataset)
 ## Code Environment
 Code is tested using Python 3.8.8 and Pytorch 1.9.0
 
