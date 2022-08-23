@@ -1,0 +1,30 @@
+48	Waist circumference	2.77e-25
+23098	Weight	2.53e-20
+23100	Whole body fat mass	3.36e-20
+23124	Arm fat mass (left)	7.97e-19
+23111	Leg fat percentage (right)	1.37e-17
+23120	Arm fat mass (right)	1.09e-16
+23104	Body mass index (BMI)	1.17e-16
+23112	Leg fat mass (right)	1.15e-15
+23119	Arm fat percentage (right)	1.18e-15
+23116	Leg fat mass (left)	4.18e-14
+23099	Body fat percentage	8.01e-13
+23123	Arm fat percentage (left)	1.07e-12
+23128	Trunk fat mass	1.34e-12
+23127	Trunk fat percentage	8.05e-10
+23106	Impedance of whole body	9.5e-08
+49	Hip circumference	7.7e-07
+23102	Whole body water mass	8.59e-05
+23110	Impedance of arm (left)	0.000117
+3062	Forced vital capacity (FVC)	0.000118
+924	Usual walking pace	0.00012
+23117	Leg fat-free mass (left)	0.000221
+23126	Arm predicted mass (left)	0.000329
+1408	Cheese intake	0.000386
+1628	Alcohol intake versus 10 years previously	0.000462
+2237	Plays computer games	0.000468
+23101	Whole body fat-free mass	0.000482
+23118	Leg predicted mass (left)	0.000516
+4080	Systolic blood pressure, automated reading	0.000707
+23114	Leg predicted mass (right)	0.000795
+1349	Processed meat intake	0.000834

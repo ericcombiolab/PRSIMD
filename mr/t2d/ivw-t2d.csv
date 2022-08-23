@@ -1,0 +1,83 @@
+exposure,outcome,std,pval,k,qval
+Waist circumference  || id:ukb-b-9405,Type2 Diabetes,0.09580946,3.38E-27,1,2.77E-25
+Weight  || id:ukb-b-11842,Type2 Diabetes,0.095285911,9.25E-22,2,3.79E-20
+Weight  || id:ukb-b-11842,Type2 Diabetes,0.095285911,9.25E-22,3,2.53E-20
+Whole body fat mass  || id:ukb-b-19393,Type2 Diabetes,0.083272781,1.64E-21,4,3.36E-20
+Arm fat mass (left)  || id:ukb-b-8338,Type2 Diabetes,0.086487204,4.86E-20,5,7.97E-19
+Leg fat percentage (right)  || id:ukb-b-20531,Type2 Diabetes,0.13040867,1.00E-18,6,1.37E-17
+Arm fat mass (right)  || id:ukb-b-6704,Type2 Diabetes,0.0891328,9.28E-18,7,1.09E-16
+Body mass index (BMI)  || id:ukb-b-19953,Type2 Diabetes,0.080766084,1.28E-17,8,1.31E-16
+Body mass index (BMI)  || id:ukb-b-19953,Type2 Diabetes,0.080766084,1.28E-17,9,1.17E-16
+Leg fat mass (right)  || id:ukb-b-18096,Type2 Diabetes,0.10793164,1.40E-16,10,1.15E-15
+Arm fat percentage (right)  || id:ukb-b-12854,Type2 Diabetes,0.107369666,1.58E-16,11,1.18E-15
+Leg fat mass (left)  || id:ukb-b-7212,Type2 Diabetes,0.102634441,6.11E-15,12,4.18E-14
+Body fat percentage  || id:ukb-b-8909,Type2 Diabetes,0.111324723,1.27E-13,13,8.01E-13
+Arm fat percentage (left)  || id:ukb-b-20188,Type2 Diabetes,0.107098123,1.83E-13,14,1.07E-12
+Trunk fat mass  || id:ukb-b-20044,Type2 Diabetes,0.081444311,2.45E-13,15,1.34E-12
+Trunk fat percentage  || id:ukb-b-16407,Type2 Diabetes,0.095906205,1.57E-10,16,8.05E-10
+Impedance of whole body  || id:ukb-b-19921,Type2 Diabetes,0.115229626,1.97E-08,17,9.50E-08
+Hip circumference  || id:ukb-b-15590,Type2 Diabetes,0.090774126,1.69E-07,18,7.70E-07
+Whole body water mass  || id:ukb-b-14540,Type2 Diabetes,0.149294319,1.99E-05,19,8.59E-05
+Usual walking pace  || id:ukb-b-4711,Type2 Diabetes,0.187351906,2.93E-05,20,1.20E-04
+Forced vital capacity (FVC)  || id:ukb-b-7953,Type2 Diabetes,0.119197739,3.01E-05,21,1.18E-04
+Impedance of arm (left)  || id:ukb-b-19379,Type2 Diabetes,0.126728187,3.13E-05,22,1.17E-04
+Leg fat-free mass (left)  || id:ukb-b-16099,Type2 Diabetes,0.140595921,6.19E-05,23,2.21E-04
+Arm predicted mass (left)  || id:ukb-b-9093,Type2 Diabetes,0.161065675,9.62E-05,24,3.29E-04
+Cheese intake  || id:ukb-b-1489,Type2 Diabetes,0.101306547,0.000117725,25,3.86E-04
+Whole body fat-free mass  || id:ukb-b-13354,Type2 Diabetes,0.148850875,0.000152907,26,4.82E-04
+Plays computer games  || id:ukb-b-4779,Type2 Diabetes,0.193265848,0.000154211,27,4.68E-04
+Alcohol intake versus 10 years previously  || id:ukb-b-3460,Type2 Diabetes,0.271467312,0.000157906,28,4.62E-04
+Leg predicted mass (left)  || id:ukb-b-17271,Type2 Diabetes,0.140952571,0.000182566,29,5.16E-04
+"Systolic blood pressure, automated reading  || id:ukb-b-20175",Type2 Diabetes,0.090291498,0.000258821,30,7.07E-04
+Leg predicted mass (right)  || id:ukb-b-14310,Type2 Diabetes,0.137941927,0.00030044,31,7.95E-04
+Processed meat intake  || id:ukb-b-6324,Type2 Diabetes,0.114828303,0.000325541,32,8.34E-04
+Impedance of arm (right)  || id:ukb-b-7859,Type2 Diabetes,0.125498741,0.000543595,33,1.35E-03
+Arm fat-free mass (right)  || id:ukb-b-19520,Type2 Diabetes,0.158792899,0.000792281,34,1.91E-03
+Dried fruit intake  || id:ukb-b-16576,Type2 Diabetes,0.159707361,0.000879751,35,2.06E-03
+Time spent watching television (TV)  || id:ukb-b-5192,Type2 Diabetes,0.126292453,0.001333497,36,3.04E-03
+Alcohol intake frequency.  || id:ukb-b-5779,Type2 Diabetes,0.074548022,0.001350675,37,2.99E-03
+Arm fat-free mass (left)  || id:ukb-b-19925,Type2 Diabetes,0.164370146,0.001653302,38,3.57E-03
+Leg fat-free mass (right)  || id:ukb-b-12828,Type2 Diabetes,0.135996959,0.001903781,39,4.00E-03
+Arm predicted mass (right)  || id:ukb-b-16698,Type2 Diabetes,0.156602358,0.002378701,40,4.88E-03
+Number of days/week of vigorous physical activity 10+ minutes  || id:ukb-b-151,Type2 Diabetes,0.076458528,0.00896687,41,1.79E-02
+Trunk predicted mass  || id:ukb-b-9685,Type2 Diabetes,0.146593214,0.009954323,42,1.94E-02
+Trunk fat-free mass  || id:ukb-b-17409,Type2 Diabetes,0.147711753,0.010175458,43,1.94E-02
+Hand grip strength (left)  || id:ukb-b-7478,Type2 Diabetes,0.139863178,0.016459444,44,3.07E-02
+Impedance of leg (left)  || id:ukb-b-14068,Type2 Diabetes,0.086424152,0.017851582,45,3.25E-02
+"Pulse rate, automated reading  || id:ukb-b-18103",Type2 Diabetes,0.065483871,0.0179012,46,3.19E-02
+Sleeplessness / insomnia  || id:ukb-b-3957,Type2 Diabetes,0.169105741,0.038980372,47,6.80E-02
+Able to confide  || id:ukb-b-4982,Type2 Diabetes,0.078378696,0.042643196,48,7.28E-02
+Water intake  || id:ukb-b-14898,Type2 Diabetes,0.137624947,0.065174123,49,1.09E-01
+Nap during day  || id:ukb-b-4616,Type2 Diabetes,0.159638646,0.072381561,50,1.19E-01
+Pork intake  || id:ukb-b-5640,Type2 Diabetes,0.250847566,0.078405966,51,1.26E-01
+Variation in diet  || id:ukb-b-2909,Type2 Diabetes,0.225173143,0.085566087,52,1.35E-01
+Impedance of leg (right)  || id:ukb-b-7376,Type2 Diabetes,0.09170467,0.092256365,53,1.43E-01
+"Diastolic blood pressure, automated reading  || id:ukb-b-7992",Type2 Diabetes,0.085477139,0.123820847,54,1.88E-01
+Past tobacco smoking  || id:ukb-b-2134,Type2 Diabetes,0.081900844,0.146525415,55,2.18E-01
+Forced expiratory volume in 1-second (FEV1)  || id:ukb-b-19657,Type2 Diabetes,0.127220926,0.17137911,56,2.51E-01
+Bread intake  || id:ukb-b-11348,Type2 Diabetes,0.136595426,0.177122682,57,2.55E-01
+Use of sun/uv protection  || id:ukb-b-7422,Type2 Diabetes,0.135068868,0.183210341,58,2.59E-01
+Peak expiratory flow (PEF)  || id:ukb-b-12019,Type2 Diabetes,0.108609716,0.196586989,59,2.73E-01
+Contra-indications for spirometry  || id:ukb-b-19206,Type2 Diabetes,0.530527884,0.215894176,60,2.95E-01
+Number of days/week of moderate physical activity 10+ minutes  || id:ukb-b-4710,Type2 Diabetes,0.063111272,0.263127133,61,3.54E-01
+Snoring  || id:ukb-b-17400,Type2 Diabetes,0.232103589,0.289460733,62,3.83E-01
+Hand grip strength (right)  || id:ukb-b-10215,Type2 Diabetes,0.137992736,0.311857028,63,4.06E-01
+Facial ageing  || id:ukb-b-2148,Type2 Diabetes,0.218774385,0.344201542,64,4.41E-01
+Beef intake  || id:ukb-b-2862,Type2 Diabetes,0.162923205,0.356921952,65,4.50E-01
+Salad / raw vegetable intake  || id:ukb-b-1996,Type2 Diabetes,0.18847116,0.367026115,66,4.56E-01
+Daytime dozing / sleeping (narcolepsy)  || id:ukb-b-5776,Type2 Diabetes,0.257954869,0.385049525,67,4.71E-01
+Frequency of stair climbing in last 4 weeks  || id:ukb-b-298,Type2 Diabetes,0.146787752,0.392942781,68,4.74E-01
+Sitting height  || id:ukb-b-16881,Type2 Diabetes,0.097362024,0.420819768,69,5.00E-01
+Hot drink temperature  || id:ukb-b-14203,Type2 Diabetes,0.172864449,0.512432636,70,6.00E-01
+Standing height  || id:ukb-b-10787,Type2 Diabetes,0.091181299,0.521306161,71,6.02E-01
+Skin colour  || id:ukb-b-19560,Type2 Diabetes,0.082263725,0.534856689,72,6.09E-01
+Answered sexual history questions  || id:ukb-b-8446,Type2 Diabetes,0.625430436,0.574689286,73,6.46E-01
+Fresh fruit intake  || id:ukb-b-3881,Type2 Diabetes,0.208417497,0.582497579,74,6.45E-01
+Cooked vegetable intake  || id:ukb-b-8089,Type2 Diabetes,0.171173817,0.591449467,75,6.47E-01
+Number of days/week walked 10+ minutes  || id:ukb-b-4886,Type2 Diabetes,0.084719961,0.681957298,76,7.36E-01
+Frequency of solarium/sunlamp use  || id:ukb-b-4943,Type2 Diabetes,0.544342296,0.697948946,77,7.43E-01
+Number of measurements made  || id:ukb-b-3376,Type2 Diabetes,0.445912154,0.699568069,78,7.35E-01
+Lamb/mutton intake  || id:ukb-b-14179,Type2 Diabetes,0.174837606,0.789878893,79,8.20E-01
+Ease of skin tanning  || id:ukb-b-533,Type2 Diabetes,0.049295644,0.92826781,80,9.51E-01
+Sleep duration  || id:ukb-b-4424,Type2 Diabetes,0.14772684,0.950931737,81,9.63E-01
+Ever smoked  || id:ukb-b-20261,Type2 Diabetes,0.202984455,0.999695977,82,1.00E+00

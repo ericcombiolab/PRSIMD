@@ -1,0 +1,30 @@
+23104	Body mass index (BMI)	7.740000000000001e-21
+23124	Arm fat mass (left)	3.87e-19
+23116	Leg fat mass (left)	5.96e-18
+48	Waist circumference	2.88e-16
+23112	Leg fat mass (right)	3.08e-16
+924	Usual walking pace	3.68e-16
+4080	Systolic blood pressure, automated reading	9.78e-15
+23127	Trunk fat percentage	3.66e-14
+23119	Arm fat percentage (right)	6.2e-14
+23099	Body fat percentage	6.91e-14
+23120	Arm fat mass (right)	1.22e-13
+23123	Arm fat percentage (left)	7.82e-13
+23111	Leg fat percentage (right)	6.75e-12
+23098	Weight	2.03e-11
+23115	Leg fat percentage (left)	2.15e-11
+23128	Trunk fat mass	4e-11
+23100	Whole body fat mass	2.1e-10
+23109	Impedance of arm (right)	1.07e-07
+2237	Plays computer games	3.08e-07
+1200	Sleeplessness / insomnia	3.23e-07
+23110	Impedance of arm (left)	8.14e-07
+3062	Forced vital capacity (FVC)	1.68e-06
+1408	Cheese intake	2.46e-06
+1548	Variation in diet	9.59e-06
+1070	Time spent watching television (TV)	1.31e-05
+1239	Current tobacco smoking	3.38e-05
+23113	Leg fat-free mass (right)	5.34e-05
+49	Hip circumference	6.54e-05
+23106	Impedance of whole body	9.09e-05
+1359	Poultry intake	0.000155

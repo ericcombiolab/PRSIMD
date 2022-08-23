@@ -1,0 +1,91 @@
+exposure,outcome,std,pval,k,qval
+Body mass index (BMI)  || id:ukb-b-19953,Coronary artery disease || id:ebi-a-GCST005195,0.044946965,1.72E-22,1,1.55E-20
+Body mass index (BMI)  || id:ukb-b-19953,Coronary artery disease || id:ebi-a-GCST005195,0.044946965,1.72E-22,2,7.74E-21
+Arm fat mass (left)  || id:ukb-b-8338,Coronary artery disease || id:ebi-a-GCST005195,0.044335281,1.29E-20,3,3.87E-19
+Leg fat mass (left)  || id:ukb-b-7212,Coronary artery disease || id:ebi-a-GCST005195,0.058262498,2.65E-19,4,5.96E-18
+Waist circumference  || id:ukb-b-9405,Coronary artery disease || id:ebi-a-GCST005195,0.055907597,1.60E-17,5,2.88E-16
+Leg fat mass (right)  || id:ukb-b-18096,Coronary artery disease || id:ebi-a-GCST005195,0.056791304,2.05E-17,6,3.08E-16
+Usual walking pace  || id:ukb-b-4711,Coronary artery disease || id:ebi-a-GCST005195,0.111927316,2.86E-17,7,3.68E-16
+"Systolic blood pressure, automated reading  || id:ukb-b-20175",Coronary artery disease || id:ebi-a-GCST005195,0.069293638,8.69E-16,8,9.78E-15
+Trunk fat percentage  || id:ukb-b-16407,Coronary artery disease || id:ebi-a-GCST005195,0.055485453,3.66E-15,9,3.66E-14
+Arm fat percentage (right)  || id:ukb-b-12854,Coronary artery disease || id:ebi-a-GCST005195,0.05566984,6.89E-15,10,6.20E-14
+Body fat percentage  || id:ukb-b-8909,Coronary artery disease || id:ebi-a-GCST005195,0.060644906,8.44E-15,11,6.91E-14
+Arm fat mass (right)  || id:ukb-b-6704,Coronary artery disease || id:ebi-a-GCST005195,0.049488076,1.63E-14,12,1.22E-13
+Arm fat percentage (left)  || id:ukb-b-20188,Coronary artery disease || id:ebi-a-GCST005195,0.063057192,1.13E-13,13,7.82E-13
+Leg fat percentage (right)  || id:ukb-b-20531,Coronary artery disease || id:ebi-a-GCST005195,0.075888631,1.05E-12,14,6.75E-12
+Weight  || id:ukb-b-11842,Coronary artery disease || id:ebi-a-GCST005195,0.0573155,3.60E-12,15,2.16E-11
+Weight  || id:ukb-b-11842,Coronary artery disease || id:ebi-a-GCST005195,0.0573155,3.60E-12,16,2.03E-11
+Leg fat percentage (left)  || id:ukb-b-18377,Coronary artery disease || id:ebi-a-GCST005195,0.078690092,4.06E-12,17,2.15E-11
+Trunk fat mass  || id:ukb-b-20044,Coronary artery disease || id:ebi-a-GCST005195,0.046569619,8.00E-12,18,4.00E-11
+Whole body fat mass  || id:ukb-b-19393,Coronary artery disease || id:ebi-a-GCST005195,0.048934988,4.44E-11,19,2.10E-10
+Impedance of arm (right)  || id:ukb-b-7859,Coronary artery disease || id:ebi-a-GCST005195,0.068819375,2.37E-08,20,1.07E-07
+Sleeplessness / insomnia  || id:ukb-b-3957,Coronary artery disease || id:ebi-a-GCST005195,0.094213991,7.53E-08,21,3.23E-07
+Plays computer games  || id:ukb-b-4779,Coronary artery disease || id:ebi-a-GCST005195,0.10203196,7.53E-08,22,3.08E-07
+Impedance of arm (left)  || id:ukb-b-19379,Coronary artery disease || id:ebi-a-GCST005195,0.070278595,2.08E-07,23,8.14E-07
+Forced vital capacity (FVC)  || id:ukb-b-7953,Coronary artery disease || id:ebi-a-GCST005195,0.062915579,4.48E-07,24,1.68E-06
+Cheese intake  || id:ukb-b-1489,Coronary artery disease || id:ebi-a-GCST005195,0.058205427,6.82E-07,25,2.46E-06
+Variation in diet  || id:ukb-b-2909,Coronary artery disease || id:ebi-a-GCST005195,0.131115671,2.77E-06,26,9.59E-06
+Time spent watching television (TV)  || id:ukb-b-5192,Coronary artery disease || id:ebi-a-GCST005195,0.065720696,3.92E-06,27,1.31E-05
+Current tobacco smoking  || id:ukb-b-223,Coronary artery disease || id:ebi-a-GCST005195,0.148325688,1.05E-05,28,3.38E-05
+Leg fat-free mass (right)  || id:ukb-b-12828,Coronary artery disease || id:ebi-a-GCST005195,0.082318297,1.72E-05,29,5.34E-05
+Hip circumference  || id:ukb-b-15590,Coronary artery disease || id:ebi-a-GCST005195,0.05367368,2.18E-05,30,6.54E-05
+Impedance of whole body  || id:ukb-b-19921,Coronary artery disease || id:ebi-a-GCST005195,0.067204702,3.13E-05,31,9.09E-05
+Poultry intake  || id:ukb-b-8006,Coronary artery disease || id:ebi-a-GCST005195,0.103333086,5.52E-05,32,1.55E-04
+Alcohol intake frequency.  || id:ukb-b-5779,Coronary artery disease || id:ebi-a-GCST005195,0.039776113,6.62E-05,33,1.81E-04
+Leg predicted mass (right)  || id:ukb-b-14310,Coronary artery disease || id:ebi-a-GCST005195,0.083590905,7.90E-05,34,2.09E-04
+Hand grip strength (left)  || id:ukb-b-7478,Coronary artery disease || id:ebi-a-GCST005195,0.083731306,0.000106227,35,2.73E-04
+"Diastolic blood pressure, automated reading  || id:ukb-b-7992",Coronary artery disease || id:ebi-a-GCST005195,0.06216007,0.000346641,36,8.67E-04
+Alcohol intake versus 10 years previously  || id:ukb-b-3460,Coronary artery disease || id:ebi-a-GCST005195,0.12369402,0.000428553,37,1.04E-03
+Salad / raw vegetable intake  || id:ukb-b-1996,Coronary artery disease || id:ebi-a-GCST005195,0.111082191,0.000471742,38,1.12E-03
+Nap during day  || id:ukb-b-4616,Coronary artery disease || id:ebi-a-GCST005195,0.092034419,0.000489262,39,1.13E-03
+Past tobacco smoking  || id:ukb-b-2134,Coronary artery disease || id:ebi-a-GCST005195,0.045462657,0.000518575,40,1.17E-03
+Length of mobile phone use  || id:ukb-b-4094,Coronary artery disease || id:ebi-a-GCST005195,0.056865692,0.000534771,41,1.17E-03
+Daytime dozing / sleeping (narcolepsy)  || id:ukb-b-5776,Coronary artery disease || id:ebi-a-GCST005195,0.144669068,0.000669908,42,1.44E-03
+Whole body fat-free mass  || id:ukb-b-13354,Coronary artery disease || id:ebi-a-GCST005195,0.089894064,0.000802575,43,1.68E-03
+Arm fat-free mass (left)  || id:ukb-b-19925,Coronary artery disease || id:ebi-a-GCST005195,0.08417297,0.00082691,44,1.69E-03
+Leg fat-free mass (left)  || id:ukb-b-16099,Coronary artery disease || id:ebi-a-GCST005195,0.084361042,0.000913735,45,1.83E-03
+Trunk fat-free mass  || id:ukb-b-17409,Coronary artery disease || id:ebi-a-GCST005195,0.081059032,0.001123581,46,2.20E-03
+Leg predicted mass (left)  || id:ukb-b-17271,Coronary artery disease || id:ebi-a-GCST005195,0.088194384,0.001158393,47,2.22E-03
+Arm predicted mass (left)  || id:ukb-b-9093,Coronary artery disease || id:ebi-a-GCST005195,0.085196648,0.002263728,48,4.24E-03
+Whole body water mass  || id:ukb-b-14540,Coronary artery disease || id:ebi-a-GCST005195,0.085898761,0.002696799,49,4.95E-03
+Dried fruit intake  || id:ukb-b-16576,Coronary artery disease || id:ebi-a-GCST005195,0.09204399,0.003919933,50,7.06E-03
+Contra-indications for spirometry  || id:ukb-b-19206,Coronary artery disease || id:ebi-a-GCST005195,0.240454041,0.00436853,51,7.71E-03
+Trunk predicted mass  || id:ukb-b-9685,Coronary artery disease || id:ebi-a-GCST005195,0.078382342,0.005309621,52,9.19E-03
+Number of measurements made  || id:ukb-b-3376,Coronary artery disease || id:ebi-a-GCST005195,0.24325793,0.005334458,53,9.06E-03
+Forced expiratory volume in 1-second (FEV1)  || id:ukb-b-19657,Coronary artery disease || id:ebi-a-GCST005195,0.073241167,0.006801488,54,1.13E-02
+Arm fat-free mass (right)  || id:ukb-b-19520,Coronary artery disease || id:ebi-a-GCST005195,0.088902296,0.009450805,55,1.55E-02
+Fresh fruit intake  || id:ukb-b-3881,Coronary artery disease || id:ebi-a-GCST005195,0.11832963,0.01701866,56,2.74E-02
+Salt added to food  || id:ukb-b-8121,Coronary artery disease || id:ebi-a-GCST005195,0.065143877,0.023780903,57,3.75E-02
+Frequency of stair climbing in last 4 weeks  || id:ukb-b-298,Coronary artery disease || id:ebi-a-GCST005195,0.072080506,0.027212825,58,4.22E-02
+Hand grip strength (right)  || id:ukb-b-10215,Coronary artery disease || id:ebi-a-GCST005195,0.092902635,0.029378117,59,4.48E-02
+Ever smoked  || id:ukb-b-20261,Coronary artery disease || id:ebi-a-GCST005195,0.11702376,0.046473241,60,6.97E-02
+Getting up in morning  || id:ukb-b-2772,Coronary artery disease || id:ebi-a-GCST005195,0.083174176,0.047639352,61,7.03E-02
+Number of days/week of vigorous physical activity 10+ minutes  || id:ukb-b-151,Coronary artery disease || id:ebi-a-GCST005195,0.046026568,0.04958495,62,7.20E-02
+Facial ageing  || id:ukb-b-2148,Coronary artery disease || id:ebi-a-GCST005195,0.145200275,0.052060737,63,7.44E-02
+Arm predicted mass (right)  || id:ukb-b-16698,Coronary artery disease || id:ebi-a-GCST005195,0.093639594,0.053674506,64,7.55E-02
+Drive faster than motorway speed limit  || id:ukb-b-4549,Coronary artery disease || id:ebi-a-GCST005195,0.09053746,0.066773867,65,9.25E-02
+Standing height  || id:ukb-b-10787,Coronary artery disease || id:ebi-a-GCST005195,0.054505349,0.078145369,66,1.07E-01
+Impedance of leg (right)  || id:ukb-b-7376,Coronary artery disease || id:ebi-a-GCST005195,0.05626167,0.090843642,67,1.22E-01
+Impedance of leg (left)  || id:ukb-b-14068,Coronary artery disease || id:ebi-a-GCST005195,0.0565947,0.110180145,68,1.46E-01
+Cooked vegetable intake  || id:ukb-b-8089,Coronary artery disease || id:ebi-a-GCST005195,0.100594336,0.119260442,69,1.56E-01
+Sleep duration  || id:ukb-b-4424,Coronary artery disease || id:ebi-a-GCST005195,0.082223315,0.139788383,70,1.80E-01
+Pork intake  || id:ukb-b-5640,Coronary artery disease || id:ebi-a-GCST005195,0.127075791,0.156439283,71,1.98E-01
+Oily fish intake  || id:ukb-b-2209,Coronary artery disease || id:ebi-a-GCST005195,0.076968923,0.208854081,72,2.61E-01
+Non-oily fish intake  || id:ukb-b-17627,Coronary artery disease || id:ebi-a-GCST005195,0.143380489,0.231633825,73,2.86E-01
+Processed meat intake  || id:ukb-b-6324,Coronary artery disease || id:ebi-a-GCST005195,0.062942172,0.307765604,74,3.74E-01
+Ease of skin tanning  || id:ukb-b-533,Coronary artery disease || id:ebi-a-GCST005195,0.029483832,0.351301701,75,4.22E-01
+Use of sun/uv protection  || id:ukb-b-7422,Coronary artery disease || id:ebi-a-GCST005195,0.081483437,0.359012162,76,4.25E-01
+Hot drink temperature  || id:ukb-b-14203,Coronary artery disease || id:ebi-a-GCST005195,0.107954323,0.450206333,77,5.26E-01
+"Pulse rate, automated reading  || id:ukb-b-18103",Coronary artery disease || id:ebi-a-GCST005195,0.043948333,0.510965332,78,5.90E-01
+Beef intake  || id:ukb-b-2862,Coronary artery disease || id:ebi-a-GCST005195,0.090560567,0.553582863,79,6.31E-01
+Snoring  || id:ukb-b-17400,Coronary artery disease || id:ebi-a-GCST005195,0.134601715,0.564176866,80,6.35E-01
+Used an inhaler for chest within last hour  || id:ukb-b-11188,Coronary artery disease || id:ebi-a-GCST005195,4.499071985,0.583109695,81,6.48E-01
+Water intake  || id:ukb-b-14898,Coronary artery disease || id:ebi-a-GCST005195,0.076471576,0.595707087,82,6.54E-01
+Tea intake  || id:ukb-b-6066,Coronary artery disease || id:ebi-a-GCST005195,0.072661481,0.607339761,83,6.59E-01
+Frequency of solarium/sunlamp use  || id:ukb-b-4943,Coronary artery disease || id:ebi-a-GCST005195,0.27067604,0.639343493,84,6.85E-01
+Sitting height  || id:ukb-b-16881,Coronary artery disease || id:ebi-a-GCST005195,0.057022244,0.649313668,85,6.88E-01
+Able to confide  || id:ukb-b-4982,Coronary artery disease || id:ebi-a-GCST005195,0.042964483,0.814232753,86,8.52E-01
+Bread intake  || id:ukb-b-11348,Coronary artery disease || id:ebi-a-GCST005195,0.074731815,0.881111223,87,9.11E-01
+Caffeine drink within last hour  || id:ukb-b-17814,Coronary artery disease || id:ebi-a-GCST005195,1.403233236,0.915207898,88,9.36E-01
+Answered sexual history questions  || id:ukb-b-8446,Coronary artery disease || id:ebi-a-GCST005195,0.350167559,0.928172525,89,9.39E-01
+Lamb/mutton intake  || id:ukb-b-14179,Coronary artery disease || id:ebi-a-GCST005195,0.118171301,0.953251322,90,9.53E-01
