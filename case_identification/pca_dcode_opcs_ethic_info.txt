@@ -1,0 +1,6 @@
+data_field	col_start	col_end	data_type	data_coding	field_name
+22020	10006	10006	Categorical (single)	1	Used in genetic principal components
+20001	6672	6695	Categorical (multiple)	3	Cancer code, self-reported
+20002	6696	6831	Categorical (multiple)	6	Non-cancer illness code, self-reported
+41200	14786	14834	Categorical (multiple)	240	Operative procedures - main OPCS4
+21000	9747	9749	Categorical (single)	1001	Ethnic background

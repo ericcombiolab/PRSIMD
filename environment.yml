@@ -371,7 +371,6 @@ dependencies:
     - natsort==8.0.2
     - pip==22.1.2
     - pynndescent==0.5.5
-    - pyrosetta==2021.45+release.b2be428
     - scanpy==1.8.2
     - scdiff2==1.0.0
     - scikit-learn==0.22
