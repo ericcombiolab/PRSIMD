@@ -11,7 +11,7 @@ def HES_diagnosis(hes_diag_path, eid_column_path, disease_icd_10, disease_icd_9,
 
 
     hesdiag_file=open(hes_diag_path,'r')
-    ind_eid = np.load(eid_column_path)[1:]
+    #ind_eid = np.load(eid_column_path)[1:]
     
     
     collect = defaultdict(list)
@@ -87,7 +87,7 @@ def HES_diagnosis(hes_diag_path, eid_column_path, disease_icd_10, disease_icd_9,
 if __name__ == '__main__':
 
     hes_diag_path  = '/home/comp/ericluzhang/UKBB/HES/hesin_diag.txt'
-    eid_column_path = '/home/comp/ericluzhang/xuyu/eid/0.npy'
+    #eid_column_path = '/home/comp/ericluzhang/xuyu/eid/0.npy'
     save_dir = './HES_fiter_result'
     
     disease_icd_10 = {'Type2 diabetes': [r'E11.*'], 'Coronary artery disease':[r'I21.*',r'I22.*',r'I23.*',r'I241',r'I252'],
@@ -97,4 +97,4 @@ if __name__ == '__main__':
 
     
     # filter diagnosis in HES_diag file 
-    HES_diagnosis(hes_diag_path, eid_column_path, disease_icd_10, disease_icd_9, save_dir)
+    HES_diagnosis(hes_diag_path, eid_column_path=None, disease_icd_10, disease_icd_9, save_dir)

@@ -70,21 +70,21 @@ if __name__ == '__main__':
         #### filter participants with the different conditions ####
         
         ## participants used in PCA
-        if factor['field_name'] == 'Used in genetic principal components': 
-            idx = []
-            for i in range(n_participants-1):
-                if data[i] == '1': 
-                    idx.append(i)
+        # if factor['field_name'] == 'Used in genetic principal components': 
+            # idx = []
+            # for i in range(n_participants-1):
+                # if data[i] == '1': 
+                    # idx.append(i)
                     
-                # # debug   
-                # if i>10:                   
-                    # print(idx,ind_eid[idx])
-                    # break
-            eid_filtered = ind_eid[idx]
-            f = open(os.path.join(save_dir, factor['field_name']+'_eid.txt'),'w')
-            for eid in eid_filtered:
-                f.write(str(eid)+'\n')
-            f.close()
+                # # # debug   
+                # # if i>10:                   
+                    # # print(idx,ind_eid[idx])
+                    # # break
+            # eid_filtered = ind_eid[idx]
+            # f = open(os.path.join(save_dir, factor['field_name']+'_eid.txt'),'w')
+            # for eid in eid_filtered:
+                # f.write(str(eid)+'\n')
+            # f.close()
           
         ## self-reported cancer 
         if factor['field_name'] == 'Cancer code, self-reported':      
@@ -131,44 +131,44 @@ if __name__ == '__main__':
                     f.write(str(eid)+'\n')
                 f.close()
           
-        ## OPCS-4 code
-        if factor['field_name'] == 'Operative procedures - main OPCS4':       
-            for disease in opcs.keys():
-                print('Disease:\t', disease)
+        # ## OPCS-4 code
+        # if factor['field_name'] == 'Operative procedures - main OPCS4':       
+            # for disease in opcs.keys():
+                # print('Disease:\t', disease)
                 
-                idx_collect = []
-                for i in range(n_participants-1):
-                    for code in opcs[disease]:
-                        if code in data[i]:                     
-                            idx_collect.append(i)
-                            break
-                    # #debug   
-                    # if i>1000:                                          
-                        # break
+                # idx_collect = []
+                # for i in range(n_participants-1):
+                    # for code in opcs[disease]:
+                        # if code in data[i]:                     
+                            # idx_collect.append(i)
+                            # break
+                    # # #debug   
+                    # # if i>1000:                                          
+                        # # break
                 
-                eid_filtered = ind_eid[idx_collect]   # transform into eid 
+                # eid_filtered = ind_eid[idx_collect]   # transform into eid 
                 
-                f = open(os.path.join(save_dir, disease +'_opcs4_eid.txt'),'w')
-                for eid in eid_filtered:
-                    f.write(str(eid)+'\n')
-                f.close()
+                # f = open(os.path.join(save_dir, disease +'_opcs4_eid.txt'),'w')
+                # for eid in eid_filtered:
+                    # f.write(str(eid)+'\n')
+                # f.close()
        
-        ## Ethnic 
-        if factor['field_name'] == 'Ethnic background':
-            idx = []
-            for i in range(n_participants-1):
-                if data[i] == '1001': 
-                    idx.append(i)
+        # ## Ethnic 
+        # if factor['field_name'] == 'Ethnic background':
+            # idx = []
+            # for i in range(n_participants-1):
+                # if data[i] == '1001': 
+                    # idx.append(i)
                     
-                # # debug   
-                # if i>10:                   
-                    # print(idx,ind_eid[idx])
-                    # break
-            eid_filtered = ind_eid[idx]
-            f = open(os.path.join(save_dir, 'white_british_eid.txt'),'w')
-            for eid in eid_filtered:
-                f.write(str(eid)+'\n')
-            f.close()
+                # # # debug   
+                # # if i>10:                   
+                    # # print(idx,ind_eid[idx])
+                    # # break
+            # eid_filtered = ind_eid[idx]
+            # f = open(os.path.join(save_dir, 'white_british_eid.txt'),'w')
+            # for eid in eid_filtered:
+                # f.write(str(eid)+'\n')
+            # f.close()
         
             
             

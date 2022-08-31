@@ -7,7 +7,7 @@ Biorxiv: https://doi.org/10.1101/2022.08.22.504882
 
 ## UK biobank
 + [Data showcase](https://biobank.ndph.ox.ac.uk/showcase/)
-
++ [Imputation data](https://biobank.ndph.ox.ac.uk/ukb/ukb/docs/ukbgene_instruct.html)
 **************
 
 ## Genome-wide association studies (GWAS) summary statistics
@@ -30,7 +30,7 @@ The file of conda environment installation is provided.
 2. Modify the path in the final line of "environment.yaml" file according to user's conda path (e.g.,`"/home/comp/csyuxu/anaconda3/envs/PRSIMD"`);
 3. Run this command to install all python dependency for PRSIMD
 ``` bash
-conda env create -f `environment.yml`
+conda env create -f environment.yml
 ```  
 4. Activate conda env
 ``` bash
@@ -38,11 +38,11 @@ conda activate PRSIMD
 ```  
 **************
 ## Identify disease cases from UK biobank 
-sorting...
+[HES record, Self-reports](https://github.com/yuxu-1/PRSIMD/tree/master/case_identification)
 
 **************
 ## UK biobank non-genetic data processing
-sorting...
+[Link](./non_genetic_data)
 
 **************
 
@@ -50,7 +50,7 @@ sorting...
 #### Python script: PRSIMD.py
 Run the blow script to reproduce the experimental results of PRSIMD (LDpred2) on CAD.
 ``` bash
-$ python PRSIMD.py  
+python PRSIMD.py  
 ```
 
 The key input files and settings:
