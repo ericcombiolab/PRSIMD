@@ -1,13 +1,13 @@
 # PRSIMD: A machine learning model for disease risk prediction by integrating genetic and non-genetic factors
-Biorxiv: https://doi.org/10.1101/2022.08.22.504882
+Paper submitted to Biorxiv: https://doi.org/10.1101/2022.08.22.504882
 
-## This README is under revision....
 
 **************
 
 ## UK biobank
 + [Data showcase](https://biobank.ndph.ox.ac.uk/showcase/)
-+ [Imputation data](https://biobank.ndph.ox.ac.uk/ukb/ukb/docs/ukbgene_instruct.html)
++ [Genetic data](https://biobank.ndph.ox.ac.uk/ukb/ukb/docs/ukbgene_instruct.html)
+
 **************
 
 ## Genome-wide association studies (GWAS) summary statistics
